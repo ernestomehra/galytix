@@ -1,0 +1,12 @@
+{
+    "baseUrl": "http://localhost:4200",
+    "env":{
+        "firstJob": "job/1"
+    },
+    "trashAssetsBeforeRuns": true,
+    "video": false,
+    "viewportWidth": 2880,
+    "viewportHeight": 1800
+}
+
+  

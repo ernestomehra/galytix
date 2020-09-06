@@ -1,0 +1,11 @@
+{
+  "generic":{
+    "jobsHome": "Browse Jobs",
+    "benefitsTitle": "WHY YOU DO NOT WANT TO MISS THIS CAREER OPPORTUNITY?"
+  },
+  "jobApplication":{
+    "applierFirstName": "Karan",
+    "applierLastName": "Mehra",
+    "successMsg": "Application Submitted"
+}
+}
