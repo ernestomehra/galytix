@@ -19,3 +19,10 @@ export const jobDetails = {
     
 }
 
+export const galytix_experimental = {
+     username :'input[data-cy="Username"]';
+     password :'input[data-cy="Password"]';
+     SignIn_button :'button[data-cy="Sign In"]';
+    forgotPassword_button : 'button[data-cy="Forgot password"]';
+}
+
